@@ -1,4 +1,4 @@
-## Welcome to Yang Chun's Websit.
+## Welcome to Yang Chun's Website.
 
 You can use the [editor on GitHub](https://github.com/cssyang/cssyang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
